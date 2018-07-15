@@ -1,0 +1,10 @@
+2018-07-15 at 16:36:03 CST ERROR lj.util.LogUtils 55 logError - JdbcDao.getConnection():org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (IO 错误: The Network Adapter could not establish the connection)
+2018-07-15 at 16:36:03 CST ERROR lj.util.LogUtils 55 logError - generatorEntityClass:java.lang.NullPointerException
+2018-07-15 at 16:36:04 CST ERROR lj.util.LogUtils 55 logError - JdbcDao.getConnection():org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (IO 错误: The Network Adapter could not establish the connection)
+2018-07-15 at 16:36:04 CST ERROR lj.util.LogUtils 55 logError - generatorEntityClass:java.lang.NullPointerException
+2018-07-15 at 16:36:04 CST ERROR lj.util.LogUtils 55 logError - FreeMarkerUtils.getConfiguration:java.io.FileNotFoundException: template does not exist.
+2018-07-15 at 16:36:04 CST ERROR lj.util.LogUtils 55 logError - FreeMarkerUtils.generateString:java.lang.NullPointerException
+2018-07-15 at 16:42:04 CST ERROR lj.util.LogUtils 55 logError - FreeMarkerUtils.getConfiguration:java.io.FileNotFoundException: E:\InterviewAL\freemarker\template does not exist.
+2018-07-15 at 16:42:04 CST ERROR lj.util.LogUtils 55 logError - FreeMarkerUtils.generateString:java.lang.NullPointerException
+2018-07-15 at 16:42:58 CST ERROR lj.util.LogUtils 55 logError - FreeMarkerUtils.generateString:java.io.IOException: 系统找不到指定的路径。
+2018-07-15 at 16:43:29 CST ERROR lj.util.LogUtils 55 logError - FreeMarkerUtils.generateString:java.io.IOException: 系统找不到指定的路径。
