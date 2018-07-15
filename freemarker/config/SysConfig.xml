@@ -1,0 +1,7 @@
+<object-stream>
+  <lj.model.sys.SysConfig>
+    <systemName>智能配电所远程监控系统</systemName>
+    <companyName>河海大学常州校区</companyName>
+    <defaultPassword>123456</defaultPassword>
+  </lj.model.sys.SysConfig>
+</object-stream>
